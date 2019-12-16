@@ -1605,6 +1605,8 @@
         <description>Extra ground steering information for GCS.</description>
         <field type="float" name="target_heading" units="deg">Target Heading.</field>
         <field type="float" name="steer_cmd" units="deg">Steering Servo Value.</field>
+        <field type="float" name="steer_heading" units="deg">Steering Servo Value.</field>
+        <field type="float" name="steer_err" units="deg">Steering Servo Value.</field>
     </message>
   </messages>
 </mavlink>
