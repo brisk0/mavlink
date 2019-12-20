@@ -966,6 +966,7 @@
       <entry value="24" name="PLANE_MODE_TAXI_HLOCK"/>
       <entry value="25" name="PLANE_MODE_DEADSTOP"/>
       <entry value="26" name="PLANE_MODE_TAXI_WP"/>
+      <entry value="27" name="PLANE_MODE_TAXI_LINE"/>
     </enum>
     <enum name="COPTER_MODE">
       <description>A mapping of copter flight modes for custom_mode field of heartbeat.</description>
